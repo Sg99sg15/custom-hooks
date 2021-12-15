@@ -1,0 +1,43 @@
+h1{
+    font-size: 2rem;
+    text-shadow: 2px 1px red;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+button{
+    font-size: 20px;
+    padding: 5px;
+    margin: 10px;
+
+}
+.container{
+    border-radius: 10px;
+    border: 10px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+label{
+    font-size: 1.2rem;
+    text-shadow: 1px 1px green;
+    text-transform: uppercase;
+}
+input{
+    font-size: 1rem;
+    padding: 5px;
+    margin: 10px;
+}
+.string{
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+
+}
