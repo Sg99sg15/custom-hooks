@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/custom-hooks/static/css/main.754c2516.css",
+    "main.js": "/custom-hooks/static/js/main.e323f574.js",
+    "index.html": "/custom-hooks/index.html",
+    "main.754c2516.css.map": "/custom-hooks/static/css/main.754c2516.css.map",
+    "main.e323f574.js.map": "/custom-hooks/static/js/main.e323f574.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.754c2516.css",
+    "static/js/main.e323f574.js"
+  ]
+}
